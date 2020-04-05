@@ -16,18 +16,20 @@
   justify-content: center;
 }
 .img {
-  width: 130px;
   height: 200px;
+  max-height: 200px;
   margin: 20px;
 }
 .quotetext {
-  font-size: 30px;
+  font-size: 25px;
   width: 30rem;
   margin: 20px;
+  text-align: right;
 }
 
 .character {
-  font-size: 20px;
+  font-size: 15px;
+  font-weight: bold;
 }
 
 .btn {
